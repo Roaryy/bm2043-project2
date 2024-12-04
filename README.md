@@ -45,9 +45,6 @@ Follow these steps to run the server on your localhost:
 
 **Note** - Make sure Node.js and npm are installed on your system.
 
-### Example Run on localhost
-Screen Captures are attached showing the Project running on localhost
-
 
 
 
